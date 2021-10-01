@@ -1,4 +1,4 @@
-# mark6-neogcamp-banana-speak
+# mark7-neogcamp-speak-groot
 
 Lesson 4 : vanilla js beginner
 
