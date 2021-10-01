@@ -1,6 +1,6 @@
-.container-center{
-    max-width: 600px;
-    margin:auto;
+.container-center {
+  max-width: 600px;
+  margin: auto;
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
@@ -21,22 +21,18 @@ body {
   margin: auto;
 }
 
-
 .margin-small {
   margin: 0rem 0.5rem 0rem 0rem;
 }
 
 .btn-primary {
-  margin: 0 35%;  
-  padding: 0.5rem 2rem;  
+  margin: 0 35%;
+  padding: 0.5rem 2rem;
   border-radius: 0.5rem;
   color: white;
   border: 1px;
   background-color: var(--primary-color);
-  
 }
-
-
 
 .navigation {
   background-color: var(--primary-color);
@@ -46,7 +42,6 @@ body {
   border-bottom-right-radius: 1rem;
 }
 
-
 /* Header */
 
 .hero {
@@ -54,15 +49,13 @@ body {
   text-align: center;
 }
 
-
 section {
   padding: 2rem;
   margin: auto;
 }
 
-
-.text-align-center{
-    text-align: center;
+.text-align-center {
+  text-align: center;
 }
 
 .section-offwhite {
@@ -76,10 +69,9 @@ footer {
   border-top-right-radius: 1rem;
   border-top-left-radius: 1rem;
   position: fixed;
-    bottom: 0;
-    width:100%;
+  bottom: 0;
+  width: 100%;
 }
-
 
 .footer-header {
   color: white;
